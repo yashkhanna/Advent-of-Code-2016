@@ -8,7 +8,8 @@ import java.io.InputStreamReader
  * Created by yash.khanna on 5/23/2017.
  */
 fun main(args: Array<String>) {
-    val fr = FileReader("D:/LearningKotlin/Project1/src/adventofcode/inputQ3")
+//    val fr = FileReader("D:/LearningKotlin/Project1/src/adventofcode/inputQ3")
+    val fr = FileReader("res/Q3")
     val br: BufferedReader = BufferedReader(fr)
 
     var count = 0
